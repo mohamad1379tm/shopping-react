@@ -15,7 +15,7 @@ export default function App() {
               <Route index element={<Login />}/>
               <Route path='users' element={<LoginForm />}/>
               <Route path='Varify' element={<VarifyEmail />}/>
-              <Route path='*' element="Mty"/>
+              <Route path='*' element={<Login />}/>
             </Route>
           </Routes>
         </BrowserRouter>
