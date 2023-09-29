@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-project-App/static/css/main.7205d96e.css",
-    "main.js": "/my-project-App/static/js/main.710e7ec9.js",
-    "static/media/pexels-lukáš-dlutko-2440297 1.png": "/my-project-App/static/media/pexels-lukáš-dlutko-2440297 1.219ef08e8de4ace128ae.png",
-    "index.html": "/my-project-App/index.html",
-    "main.7205d96e.css.map": "/my-project-App/static/css/main.7205d96e.css.map",
-    "main.710e7ec9.js.map": "/my-project-App/static/js/main.710e7ec9.js.map"
+    "main.css": "/shopping-react/static/css/main.7205d96e.css",
+    "main.js": "/shopping-react/static/js/main.0ebfa89e.js",
+    "static/media/pexels-lukáš-dlutko-2440297 1.png": "/shopping-react/static/media/pexels-lukáš-dlutko-2440297 1.219ef08e8de4ace128ae.png",
+    "index.html": "/shopping-react/index.html",
+    "main.7205d96e.css.map": "/shopping-react/static/css/main.7205d96e.css.map",
+    "main.0ebfa89e.js.map": "/shopping-react/static/js/main.0ebfa89e.js.map"
   },
   "entrypoints": [
     "static/css/main.7205d96e.css",
-    "static/js/main.710e7ec9.js"
+    "static/js/main.0ebfa89e.js"
   ]
 }
